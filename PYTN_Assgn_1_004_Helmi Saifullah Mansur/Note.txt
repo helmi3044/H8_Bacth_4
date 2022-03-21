@@ -1,0 +1,1 @@
+Untuk dataset tidak saya uload ke github karena ukuran dataset yang sangat besar dan github mempunyai limit untuk upload dataset maksimal 100mb
